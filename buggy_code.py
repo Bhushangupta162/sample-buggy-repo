@@ -8,7 +8,7 @@ def calculate_average(numbers):
 
 def buggy_function(x):
     # Syntax error: using assignment instead of equality comparison
-    if x == 10:
+    if x = 10:
         print("x is 10")
     else:
         print("x is not 10")
